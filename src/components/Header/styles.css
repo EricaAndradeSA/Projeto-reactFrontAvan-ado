@@ -4,6 +4,12 @@ header {
   border-bottom: 1px solid #d10b85;
 }
 
+.menu li{
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 5px;
+
+}
 header .logo {
   display: flex;
   flex-direction: column;

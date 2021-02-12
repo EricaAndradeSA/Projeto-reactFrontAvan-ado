@@ -8,9 +8,11 @@ const Header = () => {
         <h2>O céu é o limite</h2>
       </div>
 
-      <nav>
-        <ul>
+      <nav class="menu">
+        <ul >
           <li>Home</li>
+          <li>Pedidos</li>
+          <li>Lojas</li>
         </ul>
       </nav>
     </header>
